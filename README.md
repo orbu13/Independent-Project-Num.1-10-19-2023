@@ -12,7 +12,7 @@
 ## Description
 
 _my first school projet._
-_you can find in here "about me section, my name, an image of me ,some of my last projectand more._
+_you can find in here "about me section, my name, an image of me ,some of my last project and more."_
 
 [my first webPage]()
 
