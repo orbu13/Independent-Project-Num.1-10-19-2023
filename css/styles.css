@@ -4,6 +4,7 @@ body{
 
 div.me{
     float: right;
+    border: 3px solid black;
 }
 
 div.me h2{
@@ -17,6 +18,7 @@ div.me span{
 div.move{
     float: left;
     margin: 15px;
+    padding: 20px;
     text-align: left;
 }
 
@@ -27,9 +29,11 @@ div.move h3, div.passion h2{
 h2.h2{
     float: right;
 }
+
 div.me img{
     width: 200px;
 }
+
 div.passion{
     float: right;
 }
