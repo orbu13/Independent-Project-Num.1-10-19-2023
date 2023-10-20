@@ -1,16 +1,27 @@
 body{
     text-align: center;
 }
-div.me {
+
+div.me{
     float: right;
 }
+
+div.me h2{
+    text-decoration: underline;
+}
+
 div.move{
     float: left;
     margin: 15px;
     text-align: left;
 }
-div.move p{
+
+div.move h3, div.passion h2{
     text-decoration: underline;
+}
+
+h2.h2{
+    float: right;
 }
 div.me img{
     width: 200px;
@@ -18,9 +29,26 @@ div.me img{
 div.passion{
     float: right;
 }
+
 div.some{
     float: left;
 }
+
+div.some h3{
+    text-decoration: underline;
+}
+
 div.school{
     float: right;
+}
+
+div.school h5{
+    text-decoration: underline;
+}
+
+div.pass p{
+    text-decoration: underline;
+}
+div.pass{
+    float: left;
 }
