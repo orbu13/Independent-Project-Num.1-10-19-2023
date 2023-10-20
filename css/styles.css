@@ -46,9 +46,9 @@ div.school h5{
     text-decoration: underline;
 }
 
-div.pass p{
+div.card p{
     text-decoration: underline;
 }
-div.pass{
+div.card{
     float: left;
 }
