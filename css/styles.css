@@ -1,12 +1,26 @@
 body{
     text-align: center;
 }
-div.me{
+div.me {
     float: right;
 }
 div.move{
-    float: right;
+    float: left;
+    margin: 15px;
+    text-align: left;
 }
 div.move p{
     text-decoration: underline;
+}
+div.me img{
+    width: 200px;
+}
+div.passion{
+    float: right;
+}
+div.some{
+    float: left;
+}
+div.school{
+    float: right;
 }
