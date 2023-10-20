@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+div.me{
+    float: right;
+}
+div.move{
+    float: right;
+}
+div.move p{
+    text-decoration: underline;
+}
